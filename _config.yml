@@ -10,14 +10,14 @@
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-theme                  : "minimal-mistakes-jekyll"
+theme : "minimal-mistakes-jekyll"
 remote_theme : mmistakes/minimal-mistakes
 
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Dev."
+locale                   : "ko"
+title                    : "Dev.backend story"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dev.blackjayH"
@@ -111,7 +111,7 @@ author:
   name             : "blackjayH"
   avatar           : # 사진 path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Dev.backend"
-  email            :
+  email            : "jikenkruz@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
