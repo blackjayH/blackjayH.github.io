@@ -16,7 +16,7 @@ remote_theme : mmistakes/minimal-mistakes
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko"
+locale                   : "en-US"
 title                    : "Dev.backend story"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
