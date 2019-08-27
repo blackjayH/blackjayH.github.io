@@ -5,6 +5,8 @@ categories: baseball
 ---
 **dodgers**
 
+**mlb-korea**
+
 **mlb-news**
 
 **mlb-prospect**
@@ -26,6 +28,12 @@ categories: baseball
 [dodgers-ocregister]: https://www.ocregister.com/sports/mlb/los-angeles-dodgers/
 [dodgers-sportsnetla]: http://www.sportsnetla.com
 [dodgers-payroll]: https://www.spotrac.com/mlb/los-angeles-dodgers/payroll/
+
+[kor-주경야덕]: https://post.naver.com/my.nhn?memberNo=25448623
+[kor-yagongso]: http://www.yagongso.com/
+[kor-suxism]: http://suxism.com/
+[kor-mlbkor]: http://mlb.mbcsportsplus.com/#07D0
+[kor-coachround]: http://coachround.com/
 
 [news-mlb.com]:    https://www.mlb.com/
 [news-espn]:   http://www.espn.com/mlb/
