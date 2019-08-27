@@ -33,7 +33,6 @@ categories: baseball
 * [news-fancredsports]
 * [news-bleacherreport]
 * [news-sportspyder]
-* [news-bleacherreport]
 * [news-usatoday]
 
 ## mlb-prospect
@@ -96,7 +95,6 @@ categories: baseball
 [news-fancredsports]: https://fancredsports.com/Categories/baseball
 [news-bleacherreport]: http://bleacherreport.com/mlb
 [news-sportspyder]: http://sportspyder.com/sports/mlb/news
-[news-bleacherreport]: http://bleacherreport.com/mlb
 [news-usatoday]: https://www.usatoday.com/sports/mlb/
 
 [prospect-milb]: https://www.milb.com/
