@@ -3,16 +3,29 @@ title: "Link baseball!!"
 date: 2019-08-27 08:26:28 -0400
 categories: baseball
 ---
+**dodgers**
+
 **mlb-news**
-mlb-news[mlb-news]
 
 **mlb-prospect**
 
-**mlb-column**
+**mlb-column&story**
 
-**mlb-stat**
+**mlb-stats**
 
+**mlb-data**
 
+**mlb-R**
+
+[dodgers-bleacherreport]: https://bleacherreport.com/los-angeles-dodgers
+[dodgers-latimes]: https://www.latimes.com/sports/dodgers
+[dodgers-truebluela]: https://www.truebluela.com/
+[dodgers-insider]: https://dodgers.mlblogs.com/
+[dodgers-thinkbluela]: http://www.thinkbluela.com/
+[dodgers-dodgersway]: https://dodgersway.com/
+[dodgers-ocregister]: https://www.ocregister.com/sports/mlb/los-angeles-dodgers/
+[dodgers-sportsnetla]: http://www.sportsnetla.com
+[dodgers-payroll]: https://www.spotrac.com/mlb/los-angeles-dodgers/payroll/
 
 [news-mlb.com]:    https://www.mlb.com/
 [news-espn]:   http://www.espn.com/mlb/
@@ -25,18 +38,38 @@ mlb-news[mlb-news]
 [news-bleacherreport]: http://bleacherreport.com/mlb
 [news-sportspyder]: http://sportspyder.com/sports/mlb/news
 [news-bleacherreport]: http://bleacherreport.com/mlb
+[news-usatoday]: https://www.usatoday.com/sports/mlb/
+
+[prospect-milb]: https://www.milb.com/
+[prospect-baseballamerica]: https://www.baseballamerica.com/
+[prospect-baseballprospectus]: https://www.baseballprospectus.com
+[prospect-thebaseballcube]: http://www.thebaseballcube.com/prospects/
+[prospect-minorleagueball]: https://www.minorleagueball.com/
+[prospect-stats]: https://www.mlb.com/prospects/stats
+
+[column&story-fansided]: https://fansided.com/mlb/
+[column&stroy-theringer]: https://www.theringer.com/mlb
+[column&stroy-theplayerstribune]: https://www.theplayerstribune.com/en-us/sports/baseball
+[column&stroy-sbnation]: https://www.sbnation.com/mlb
+[column&stroy-si]: https://www.si.com/mlb
+[column&thehardballtimes]: https://tht.fangraphs.com/
+[column&stroy-fangraphs]: https://www.fangraphs.com/
+
+[stats-reference]: http://www.baseball-reference.com/
+[stats-statcorner]: http://www.statcorner.com/index.php
+[stats-brooksbaseball]: http://www.brooksbaseball.net
+[stats-pitchfx.texasleaguers]: http://pitchfx.texasleaguers.com/
+[stats-theoleballgame]: http://www.theoleballgame.com
+[stats-baseballsavant]: https://baseballsavant.mlb.com/about
+[stats-baseballanalysts]: http://baseballanalysts.com/archives/fx_visualizatio_1/
+
+[data-retrosheet]: https://www.retrosheet.org/game.html
+[data-drivelinebaseball]: https://www.drivelinebaseball.com/
+
+[R-fangraphs]: https://tht.fangraphs.com/tht-live/importing-data-into-r/
+[R-blog]: https://cinema4dr12.tistory.com/1061?category=675738
 
 
 
 
-[prospect-reference]: http://www.baseball-reference.com/
 
-[column-fansided]: https://fansided.com/mlb/
-[column-theringer]: https://www.theringer.com/mlb
-
-
-
-[stat-reference]: http://www.baseball-reference.com/
-[stat-reference]: http://www.baseball-reference.com/
-[stat-reference]: http://www.baseball-reference.com/
-[stat-reference]: http://www.baseball-reference.com/
