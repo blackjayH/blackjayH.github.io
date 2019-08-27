@@ -5,7 +5,7 @@ categories: baseball
 ---
 
 **dodgers**
-[dodgers-bleacherreport][dodgers-bleacherreport]
+[dodgers-bleacherreport]
 [dodgers-latimes]
 [dodgers-truebluela]
 [dodgers-insider]
