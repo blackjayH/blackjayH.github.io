@@ -13,7 +13,6 @@ gem "github-pages", group: :jekyll_plugins
 # theme : "minimal-mistakes-jekyll"
 remote_theme : mmistakes/minimal-mistakes
 
-
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -30,7 +29,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 120
+words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -260,15 +259,15 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
- jekyll-archives:
-   enabled:
-     - categories
+# jekyll-archives:
+#   enabled:
+#     - categories
 #     - tags
-   layouts:
-     category: archive-taxonomy
+#   layouts:
+#     category: archive-taxonomy
 #     tag: archive-taxonomy
-   permalinks:
-     category: /categories/:name/
+#   permalinks:
+#     category: /categories/:name/
 #     tag: /tags/:name/
 
 
