@@ -3,8 +3,9 @@ title: "Link baseball!!"
 date: 2019-08-27 08:26:28 -0400
 categories: baseball
 ---
+
 **dodgers**
-[dodgers-bleacherreport]
+[dodgers-bleacherreport][dodgers-bleacherreport]
 [dodgers-latimes]
 [dodgers-truebluela]
 [dodgers-insider]
