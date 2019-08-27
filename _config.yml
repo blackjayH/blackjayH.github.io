@@ -288,7 +288,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
-      share: true
+      read_time: false
+      comments: # true 댓글 활성화
+      share: false
       related: true
