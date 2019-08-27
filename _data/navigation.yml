@@ -2,8 +2,8 @@
 main:
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Archive"
-    url: /year-archive/
+  - title: Baseball
+    url: /baseball/
   - title: "Category"
     url: /categories/
   - title: "Tag"
