@@ -4,71 +4,71 @@ date: 2019-08-27 08:26:28 -0400
 categories: baseball
 ---
 
-##dodgers
-* [dodgers-bleacherreport] *
-* [dodgers-latimes] *
-[dodgers-truebluela]
-[dodgers-insider]
-[dodgers-thinkbluela]
-[dodgers-dodgersway]
-[dodgers-ocregister]
-[dodgers-sportsnetla]
-[dodgers-payroll]
+## dodgers
+* [dodgers-bleacherreport] 
+* [dodgers-latimes] 
+* [dodgers-truebluela]
+* [dodgers-insider]
+* [dodgers-thinkbluela]
+* [dodgers-dodgersway]
+* [dodgers-ocregister]
+* [dodgers-sportsnetla]
+* [dodgers-payroll]
 
-**mlb-korea**
-[kor-주경야덕]
-[kor-yagongso]
-[kor-suxism]
-[kor-mlbkor]
-[kor-coachround]
+## mlb-korea
+* [kor-주경야덕]
+* [kor-yagongso]
+* [kor-suxism]
+* [kor-mlbkor]
+* [kor-coachround]
 
-**mlb-news**
-[news-mlb.com]
-[news-espn]
-[news-mlbtraderumors]
-[news-yahoo]
-[news-foxsports]
-[news-cbs]
-[news-rotoworld]
-[news-fancredsports]
-[news-bleacherreport]
-[news-sportspyder]
-[news-bleacherreport]
-[news-usatoday]
+## mlb-news
+* [news-mlb.com]
+* [news-espn]
+* [news-mlbtraderumors]
+* [news-yahoo]
+* [news-foxsports]
+* [news-cbs]
+* [news-rotoworld]
+* [news-fancredsports]
+* [news-bleacherreport]
+* [news-sportspyder]
+* [news-bleacherreport]
+* [news-usatoday]
 
-**mlb-prospect**
-[prospect-milb]
-[prospect-baseballamerica]
-[prospect-baseballprospectus]
-[prospect-thebaseballcube]
-[prospect-minorleagueball]
-[prospect-stats]
+## mlb-prospect
+* [prospect-milb]
+* [prospect-baseballamerica]
+* [prospect-baseballprospectus]
+* [prospect-thebaseballcube]
+* [prospect-minorleagueball]
+* [prospect-stats]
 
-**mlb-column&story**
-[column&story-fansided]
-[column&stroy-theringer]
-[column&stroy-theplayerstribune]
-[column&stroy-sbnation]
-[column&stroy-si]
-[column&thehardballtimes]
-[column&stroy-fangraphs]
+## mlb-column&story
+* [column&story-fansided]
+* [column&stroy-theringer]
+* [column&stroy-theplayerstribune]
+* [column&stroy-sbnation]
+* [column&stroy-si]
+* [column&thehardballtimes]
+* [column&stroy-fangraphs]
 
-**mlb-stats**
-[stats-reference]
-[stats-statcorner]
-[stats-brooksbaseball]
-[stats-pitchfx.texasleaguers]
-[stats-theoleballgame]
-[stats-baseballsavant]
-[stats-baseballanalysts]
+## mlb-stats
+* [stats-reference]
+* [stats-statcorner]
+* [stats-brooksbaseball]
+* [stats-pitchfx.texasleaguers]
+* [stats-theoleballgame]
+* [stats-baseballsavant]
+* [stats-baseballanalysts]
 
-**mlb-data**
-[data-retrosheet]
-[data-drivelinebaseball]
+## mlb-data
+* [data-retrosheet]
+* [data-drivelinebaseball]
 
-**mlb-R**
-[R-fangraphs]
-[R-blog]
+## mlb-R
+* [R-fangraphs]
+* [R-blog]
 
 [dodgers-bleacherreport]: https://bleacherreport.com/los-angeles-dodgers
 [dodgers-latimes]: https://www.latimes.com/sports/dodgers
