@@ -9,9 +9,9 @@
 # Theme Settings
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
-gem "github-pages", group: :jekyll_plugins
+# gem "github-pages", group: :jekyll_plugins
 # theme : "minimal-mistakes-jekyll"
-remote_theme : mmistakes/minimal-mistakes
+# remote_theme : mmistakes/minimal-mistakes
 
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -29,7 +29,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 120
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
