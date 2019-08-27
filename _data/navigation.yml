@@ -2,7 +2,7 @@
 main:
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Home"
+  - title: "Category"
     url: /categories/
   - title: "Baseball"
     url: /baseball/
