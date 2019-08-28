@@ -9,7 +9,7 @@ main:
   - title: "Home"
     url: /
   - title: "Archives"
-    url: /archives/  
+    url: /year-archive/ 
   - title: "Dev"
     url: /dev/ 
   - title: "Baseball"
