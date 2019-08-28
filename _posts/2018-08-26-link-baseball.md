@@ -2,7 +2,6 @@
 title: "Link baseball!                   !"
 date: 2019-08-27 08:26:28 -0400
 categories: baseball
-tags: [baseball]
 ---
 
 ## dodgers
