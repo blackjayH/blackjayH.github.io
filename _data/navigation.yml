@@ -4,8 +4,8 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "Category"
-    url: /categories/
+  # - title: "Category"
+  #   url: /categories/
   - title: "Home"
     url: /
   - title: "Archives"
