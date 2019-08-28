@@ -2,11 +2,12 @@
 title: "Link baseball!                   !"
 date: 2019-08-27 08:26:28 -0400
 categories: baseball
+tags: [baseball]
 ---
 
 ## dodgers
-* [dodgers-bleacherreport] 
-* [dodgers-latimes] 
+* [dodgers-bleacherreport]
+* [dodgers-latimes]
 * [dodgers-truebluela]
 * [dodgers-insider]
 * [dodgers-thinkbluela]
@@ -125,8 +126,3 @@ categories: baseball
 
 [R-fangraphs]: https://tht.fangraphs.com/tht-live/importing-data-into-r/
 [R-blog]: https://cinema4dr12.tistory.com/1061?category=675738
-
-
-
-
-
