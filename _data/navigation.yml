@@ -2,13 +2,18 @@
 main:
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sitemap"
+  #   url: /sitemap/
   - title: "Category"
     url: /categories/
-  - title: "Baseball"
-    url: /baseball/
+  - title: "Home"
+    url: /dev/
+  - title: "Archives"
+    url: /tags/  
   - title: "Dev"
-    url: /dev/  
+    url: /dev/ 
+  - title: "Baseball"
+    url: /baseball/   
   - title: "Tag"
     url: /tags/  
-  - title: "Sitemap"
-    url: /sitemap/
+  
