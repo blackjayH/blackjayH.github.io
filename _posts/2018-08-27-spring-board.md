@@ -6,7 +6,7 @@ categories: dev
 ## spring board
 ---
 ###Intro
-- repository [asmrplayer]
+- [repository]
 - spring framework practice
 ---
 ###Program Stacks
@@ -19,10 +19,11 @@ categories: dev
 ---
 ###Implementation
 - USER(CRUD) + Board(CRUD) + Comment(CRUD)
+- 페이징
 - JUnit 테스트
 - REST API
 - Spring MVC
 - Spring AOP(로깅)
 - Interceptor(로그인체크, 권한체크)
 
-[asmrplayer]: https://github.com/blackjayH/asmr-player/
+[repository]: https://github.com/blackjayH/Spring-board-practice

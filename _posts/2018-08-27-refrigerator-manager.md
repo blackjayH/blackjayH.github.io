@@ -1,13 +1,15 @@
 ---
-title: "asmrplayer"
+title: "refrigerator manager"
 date: 2019-08-26 08:26:28 -0400
 categories: dev
 ---
-##
+##refrigerator manager
 ---
 ###Intro
 - 캡스톤 team project
-- repository [asmrplayer]
+- ver1.[app repository]
+- ver2.[app repository2]
+- [web server php file]
 - Barcode + STT 인식 Refrigerator Manager 앱
 - 4 people(2018.3.1 ~ 6.8)
 ---
@@ -40,7 +42,7 @@ categories: dev
 
 ######장바구니
 - ListView + SQLite : 장바구니 화면 구성
-- RequestHttpURLConnection + AsyncTask : 장바구니 정보 웹 서버와 통신
+- RequestHttpURLConnection + AsyncTask : 장바구니 정보 웹 서버와 통신 JSON파싱
 
 ######기타
 - 안드로이드 로그인
@@ -51,8 +53,21 @@ categories: dev
 - Zxing Library : Barcode 인식
 - JSoup Library : beepscan 웹 페이지 바코드 정보 파싱
 //- Apache HTTP Client : 웹 서버와 통신(ver1) >> 나중에 변경
-- RequestHttpURLConnection + AsyncTask : 웹 서버와 통신(ver2)
+- RequestHttpURLConnection + AsyncTask : 웹 서버와 통신(ver2) JSON파싱
 - PHP + MySQL + kakao plus friend API : 간단한 카카오봇
 - PHP + MySQL : 앱 데이터 웹 서버에 백업
+---
+###Photo
+<img src="/assets/images/4.jpg" alt="drawing" width="250" height="300"/>
+<img src="/assets/images/5.jpg" alt="drawing" width="250" height="300"/>
+<br>
+<img src="/assets/images/6.jpg" alt="drawing" width="250" height="300"/>
+<img src="/assets/images/7.jpg" alt="drawing" width="250" height="300"/>
+<br>
+<img src="/assets/images/9.jpg" alt="drawing" width="250" height="300"/>
+<img src="/assets/images/8.jpg" alt="drawing" width="250" height="300"/>
+<img src="/assets/images/10.jpg" alt="drawing" width="250" height="300"/>
 
-[asmrplayer]: https://github.com/blackjayH/asmr-player/
+[app repository]: https://github.com/blackjayH/rfmanager-1-
+[app repository2]: https://github.com/blackjayH/Rfmanager
+[web server php file]: https://github.com/blackjayH/kakao-plus-friend
