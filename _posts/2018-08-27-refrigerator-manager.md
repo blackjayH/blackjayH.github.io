@@ -12,6 +12,7 @@ categories: dev
 - [web server php file]
 - Barcode + STT 인식 Refrigerator Manager 앱
 - 4 people(2018.3.1 ~ 6.8)
+
 ---
 
 ###Program Stacks
@@ -22,6 +23,7 @@ categories: dev
 - SQLite
 - JAVA(Android)
 - [kakao plus friend API]
+
 ---
 
 ###Implementation
@@ -48,6 +50,7 @@ categories: dev
 
 ######기타
 - Android 로그인
+
 ---
 
 ###My part
@@ -59,6 +62,7 @@ categories: dev
 - RequestHttpURLConnection + AsyncTask : 웹 서버와 통신(ver2) JSON파싱
 - PHP + MySQL + kakao plus friend API : 간단한 카카오봇
 - PHP + MySQL : 앱 데이터 웹 서버에 백업
+
 ---
 
 ###Photo

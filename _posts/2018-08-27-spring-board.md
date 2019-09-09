@@ -8,6 +8,7 @@ categories: dev
 ###Intro
 - [repository]
 - spring framework practice
+
 ---
 
 ###Program Stacks
@@ -18,6 +19,7 @@ categories: dev
 - Ajax
 - MyBatis
 - Hibernate
+
 ---
 
 ###Implementation
