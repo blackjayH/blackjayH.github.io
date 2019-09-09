@@ -3,10 +3,11 @@ title: "refrigerator manager"
 date: 2019-08-26 08:26:28 -0400
 categories: dev
 ---
+## team proejct
 
-##refrigerator manager
+---
 
-###Intro
+### Intro
 - 캡스톤 team project
 - ver1.[app repository]
 - ver2.[app repository2]
@@ -16,7 +17,7 @@ categories: dev
 
 ---
 
-###Program Stacks
+### Program Stacks
 - Raspberry Pi
 - Apache
 - PHP
@@ -27,34 +28,34 @@ categories: dev
 
 ---
 
-###Implementation
+### Implementation
 ##### Web
 - Raspberry Pi + 우분투(Apache + PHP + MySQL) APMSetup 웹 서버 구축
 - PHP + MySQL + kakao plus friend API : 간단한 카카오봇
 - PHP + MySQL : 앱 데이터 웹 서버에 백업
 
 ##### App
-######상품등록
+###### 상품등록
 - Zxing Library : Barcode 인식
 - JSoup Library : beepscan 웹 페이지 바코드 정보 파싱
 - STT Library : 음성 인식
 
-######냉장고(메인)
+###### 냉장고(메인)
 - StickyGridHeader Library + SQLite : 메인 화면 구성
 - RequestHttpURLConnection + AsyncTask : 냉장고 정보 웹 서버와 통신
 - 조건 정렬 및 레시피 검색
 - 유통기한 Notification
 
-######장바구니
+###### 장바구니
 - ListView + SQLite : 장바구니 화면 구성
 - RequestHttpURLConnection + AsyncTask : 장바구니 정보 웹 서버와 통신 JSON파싱
 
-######기타
+###### 기타
 - Android 로그인
 
 ---
 
-###My part
+### My part
 - 장바구니 전체
 - 냉장고(메인) : StickyGridHeader Library + SQLite : 메인 화면 구성
 - Zxing Library : Barcode 인식
@@ -66,7 +67,7 @@ categories: dev
 
 ---
 
-###Photo
+### Photo
 <img src="/assets/images/4.jpg" alt="drawing" width="250" height="300"/>
 <img src="/assets/images/5.jpg" alt="drawing" width="250" height="300"/>
 <br>

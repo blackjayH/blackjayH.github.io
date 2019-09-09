@@ -1,8 +1,9 @@
 ---
-title: "jsp 게시판 연습"
+title: "jsp board"
 date: 2019-08-27 08:26:28 -0400
 categories: dev
 ---
+## toy project
 
 ---
 
