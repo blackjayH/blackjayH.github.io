@@ -4,11 +4,12 @@ date: 2019-08-26 08:26:28 -0400
 categories: dev
 ---
 ## spring board
----
+
 ###Intro
 - [repository]
 - spring framework practice
 ---
+
 ###Program Stacks
 - BootStrap
 - JSP + JSTL
@@ -18,6 +19,7 @@ categories: dev
 - MyBatis
 - Hibernate
 ---
+
 ###Implementation
 - USER(CRUD) + Board(CRUD) + Comment(CRUD) 페이징 처리
 - JUnit 테스트

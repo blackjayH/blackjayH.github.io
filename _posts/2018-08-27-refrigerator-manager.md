@@ -4,7 +4,7 @@ date: 2019-08-26 08:26:28 -0400
 categories: dev
 ---
 ##refrigerator manager
----
+
 ###Intro
 - 캡스톤 team project
 - ver1.[app repository]
@@ -13,6 +13,7 @@ categories: dev
 - Barcode + STT 인식 Refrigerator Manager 앱
 - 4 people(2018.3.1 ~ 6.8)
 ---
+
 ###Program Stacks
 - Raspberry Pi
 - Apache
@@ -21,8 +22,8 @@ categories: dev
 - SQLite
 - JAVA(Android)
 - [kakao plus friend API]
-
 ---
+
 ###Implementation
 ##### Web
 - Raspberry Pi + 우분투(Apache + PHP + MySQL) APMSetup 웹 서버 구축
@@ -48,6 +49,7 @@ categories: dev
 ######기타
 - Android 로그인
 ---
+
 ###My part
 - 장바구니 전체
 - 냉장고(메인) : StickyGridHeader Library + SQLite : 메인 화면 구성
@@ -58,6 +60,7 @@ categories: dev
 - PHP + MySQL + kakao plus friend API : 간단한 카카오봇
 - PHP + MySQL : 앱 데이터 웹 서버에 백업
 ---
+
 ###Photo
 <img src="/assets/images/4.jpg" alt="drawing" width="250" height="300"/>
 <img src="/assets/images/5.jpg" alt="drawing" width="250" height="300"/>
