@@ -12,10 +12,12 @@ R & Baseball
 
 ## site
 #### Data
-[link2]  
+[link2]
+
 [link3]
 #### R
 [link4]  
+
 [link5]
 ## book
 R for Data Science >> 공부자료  
