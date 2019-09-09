@@ -42,6 +42,7 @@ Web Team Project:
   <figcaption>Feels good to be right all the time.</figcaption>
 </figure> 
 
+<img src="/assets/images/1.JPG" alt="drawing" width="350" height="300"/>
 <img src="/assets/images/2.JPG" alt="drawing" width="350" height="300"/>
 
 [repository]: https://github.com/blackjayH/asmr-player/
