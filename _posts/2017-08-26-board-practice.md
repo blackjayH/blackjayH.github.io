@@ -4,11 +4,9 @@ date: 2019-08-27 08:26:28 -0400
 categories: dev
 ---
 
-This page R & Baseball:
-
 ---
 
-###Intro
+### Intro
 - [repository]
 - 영상보면서 첫 웹 프로젝트 따라해보기(2017.8.1 ~ 17)
 - 유튜브 JSP 게시판 만들기 강좌 https://www.youtube.com/watch?v=wEIBDHfoMBg
@@ -17,7 +15,7 @@ This page R & Baseball:
 
 ---
 
-###Program Stacks
+### Program Stacks
 - BootStrap
 - JSP
 - MySQL
