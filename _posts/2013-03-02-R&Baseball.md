@@ -14,9 +14,11 @@ This page R & Baseball:
 #### Data
 - [retrosheet]
 - [tht]
+
 #### R
 - [R for Data Science]  
 - [github r4ds]
+
 ## book
 R for Data Science >> 공부자료  
 Analyzing  Baseball Data  with R(Max Marchi Jim Albert)
