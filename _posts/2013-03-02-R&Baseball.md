@@ -8,17 +8,15 @@ This page R & Baseball:
 ---
 
 ## blog
-[link1]
+- [datascience]
 
 ## site
 #### Data
-[link2]
-
-[link3]
+- [retrosheet]
+- [tht]
 #### R
-[link4]  
-
-[link5]
+- [R for Data Science]  
+- [github r4ds]
 ## book
 R for Data Science >> 공부자료  
 Analyzing  Baseball Data  with R(Max Marchi Jim Albert)
@@ -26,8 +24,8 @@ Analyzing  Baseball Data  with R(Max Marchi Jim Albert)
 ## package
 rvest
 
-[link1]: https://cinema4dr12.tistory.com/1061?category=675738
-[link2]: https://www.retrosheet.org/gamelogs/index.html
-[link3]: https://tht.fangraphs.com/tht-live/importing-data-into-r/
-[link4]: https://r4ds.had.co.nz/
-[link5]: https://github.com/hadley/r4ds
+[datascience]: https://cinema4dr12.tistory.com/1061?category=675738
+[retrosheet]: https://www.retrosheet.org/gamelogs/index.html
+[tht]: https://tht.fangraphs.com/tht-live/importing-data-into-r/
+[R for Data Science]: https://r4ds.had.co.nz/
+[github r4ds]: https://github.com/hadley/r4ds
