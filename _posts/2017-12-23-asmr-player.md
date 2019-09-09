@@ -38,7 +38,7 @@ Web Team Project:
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/1.jpg" alt="drawing" width="350" height="300"/>
 
 <figure style="width: 300px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2.jpg" alt="zz">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/code.jpg" alt="zz">
   <figcaption>Feels good to be right all the time.</figcaption>
 </figure> 
 
