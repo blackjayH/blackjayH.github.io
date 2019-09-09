@@ -69,15 +69,13 @@ Team Project:
 ---
 
 ### Photo
-<img src="/assets/images/4.jpg" alt="drawing" width="250" height="300"/>
-<img src="/assets/images/5.jpg" alt="drawing" width="250" height="300"/>
+<img src="/assets/images/4.JPG" alt="drawing" width="250" height="300"/> <img src="/assets/images/5.JPG" alt="drawing" width="250" height="300"/>
 <br>
-<img src="/assets/images/6.jpg" alt="drawing" width="250" height="300"/>
-<img src="/assets/images/7.jpg" alt="drawing" width="250" height="300"/>
+<img src="/assets/images/6.JPG" alt="drawing" width="250" height="300"/> <img src="/assets/images/7.JPG" alt="drawing" width="250" height="300"/>
 <br>
-<img src="/assets/images/9.jpg" alt="drawing" width="250" height="300"/>
-<img src="/assets/images/8.jpg" alt="drawing" width="250" height="300"/>
-<img src="/assets/images/10.jpg" alt="drawing" width="250" height="300"/>
+<img src="/assets/images/9.JPG" alt="drawing" width="250" height="300"/> <img src="/assets/images/8.JPG" alt="drawing" width="250" height="300"/>
+<br>
+<img src="/assets/images/10.JPG" alt="drawing" width="250" height="300"/>
 
 [app repository]: https://github.com/blackjayH/rfmanager-1-
 [app repository2]: https://github.com/blackjayH/Rfmanager
