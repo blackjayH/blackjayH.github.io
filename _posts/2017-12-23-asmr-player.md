@@ -4,7 +4,7 @@ date: 2019-08-26 08:26:28 -0400
 categories: dev
 ---
 
-web team project
+Web Team Project:
 
 ---
 
@@ -33,7 +33,7 @@ web team project
 ---
 
 ### Photo
-<img src="/assets/images/1.jpg" alt="drawing" width="350" height="300"/>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/1.jpg" alt="drawing" width="350" height="300"/>
 <img src="/assets/images/2.jpg" alt="drawing" width="350" height="300"/>
 
 [repository]: https://github.com/blackjayH/asmr-player/

@@ -4,7 +4,7 @@ date: 2019-08-26 08:26:28 -0400
 categories: dev
 ---
 
-분산 team project
+Team Project:
 
 ---
 
@@ -29,7 +29,7 @@ categories: dev
 
 ---
 
-###Photo
+### Photo
  <img src="/assets/images/3.jpg" alt="drawing" width="350" height="300"/>
 
 

@@ -21,7 +21,7 @@ This page R & Baseball:
 - [github r4ds]
 
 ## book
-R for Data Science >> 공부자료  
+R for Data Science   
 Analyzing  Baseball Data  with R(Max Marchi Jim Albert)
 
 ## package

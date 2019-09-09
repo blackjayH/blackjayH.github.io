@@ -4,17 +4,17 @@ date: 2019-08-26 08:26:28 -0400
 categories: dev
 ---
 
-toy project
+Toy Project:
 
 ---
 
-###Intro
+### Intro
 - [repository]
 - spring framework practice
 
 ---
 
-###Program Stacks
+### Program Stacks
 - BootStrap
 - JSP + JSTL
 - MySQL
@@ -25,7 +25,7 @@ toy project
 
 ---
 
-###Implementation
+### Implementation
 - USER(CRUD) + Board(CRUD) + Comment(CRUD) 페이징 처리
 - JUnit 테스트
 - RESTful API
