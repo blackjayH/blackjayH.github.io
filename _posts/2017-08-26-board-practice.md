@@ -3,7 +3,9 @@ title: "jsp 게시판 연습"
 date: 2019-08-27 08:26:28 -0400
 categories: dev
 ---
-## jsp 게시판 연습
+
+This page R & Baseball:
+---
 
 ###Intro
 - [repository]
