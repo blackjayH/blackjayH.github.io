@@ -20,7 +20,8 @@ categories: dev
 - MySQL
 - SQLite
 - JAVA(Android)
-- kakao plus friend API
+- [kakao plus friend API]
+
 ---
 ###Implementation
 ##### Web
@@ -45,7 +46,7 @@ categories: dev
 - RequestHttpURLConnection + AsyncTask : 장바구니 정보 웹 서버와 통신 JSON파싱
 
 ######기타
-- 안드로이드 로그인
+- Android 로그인
 ---
 ###My part
 - 장바구니 전체
@@ -71,3 +72,4 @@ categories: dev
 [app repository]: https://github.com/blackjayH/rfmanager-1-
 [app repository2]: https://github.com/blackjayH/Rfmanager
 [web server php file]: https://github.com/blackjayH/kakao-plus-friend
+[kakao plus friend api]: https://github.com/plusfriend/auto_reply

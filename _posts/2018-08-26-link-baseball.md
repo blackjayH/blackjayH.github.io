@@ -4,7 +4,7 @@ date: 2019-08-27 08:26:28 -0400
 categories: baseball
 ---
 
-## dodgers
+#### dodgers
 * [dodgers-bleacherreport]
 * [dodgers-latimes]
 * [dodgers-truebluela]
@@ -15,14 +15,14 @@ categories: baseball
 * [dodgers-sportsnetla]
 * [dodgers-payroll]
 
-## mlb-korea
+#### mlb-korea
 * [kor-주경야덕]
 * [kor-yagongso]
 * [kor-suxism]
 * [kor-mlbkor]
 * [kor-coachround]
 
-## mlb-news
+#### mlb-news
 * [news-mlb.com]
 * [news-espn]
 * [news-mlbtraderumors]
@@ -35,7 +35,7 @@ categories: baseball
 * [news-sportspyder]
 * [news-usatoday]
 
-## mlb-prospect
+#### mlb-prospect
 * [prospect-milb]
 * [prospect-baseballamerica]
 * [prospect-baseballprospectus]
@@ -43,16 +43,18 @@ categories: baseball
 * [prospect-minorleagueball]
 * [prospect-stats]
 
-## mlb-column&story
+#### mlb-column&story
 * [column&story-fansided]
 * [column&stroy-theringer]
 * [column&stroy-theplayerstribune]
 * [column&stroy-sbnation]
 * [column&stroy-si]
-* [column&thehardballtimes]
+* [column&stroy-thehardballtimes]
 * [column&stroy-fangraphs]
+* [column&stroy-beyondtheboxscore]
+* [column&stroy-baseballthinkfactory]
 
-## mlb-stats
+#### mlb-stats
 * [stats-reference]
 * [stats-statcorner]
 * [stats-brooksbaseball]
@@ -61,11 +63,11 @@ categories: baseball
 * [stats-baseballsavant]
 * [stats-baseballanalysts]
 
-## mlb-data
+#### mlb-data
 * [data-retrosheet]
 * [data-drivelinebaseball]
 
-## mlb-R
+#### mlb-R
 * [R-fangraphs]
 * [R-blog]
 
@@ -109,8 +111,10 @@ categories: baseball
 [column&stroy-theplayerstribune]: https://www.theplayerstribune.com/en-us/sports/baseball
 [column&stroy-sbnation]: https://www.sbnation.com/mlb
 [column&stroy-si]: https://www.si.com/mlb
-[column&thehardballtimes]: https://tht.fangraphs.com/
+[column&stroy-thehardballtimes]: https://tht.fangraphs.com/
 [column&stroy-fangraphs]: https://www.fangraphs.com/
+[column&stroy-beyondtheboxscore]: https://www.beyondtheboxscore.com/
+[column&stroy-baseballthinkfactory]: http://www.baseballthinkfactory.org/
 
 [stats-reference]: http://www.baseball-reference.com/
 [stats-statcorner]: http://www.statcorner.com/index.php
