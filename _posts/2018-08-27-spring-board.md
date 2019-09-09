@@ -13,15 +13,15 @@ categories: dev
 - BootStrap
 - JSP + JSTL
 - MySQL
-- MyBatis
 - Maven
 - Ajax
+- MyBatis
+- Hibernate
 ---
 ###Implementation
-- USER(CRUD) + Board(CRUD) + Comment(CRUD)
-- 페이징
+- USER(CRUD) + Board(CRUD) + Comment(CRUD) 페이징 처리
 - JUnit 테스트
-- REST API
+- RESTful API
 - Spring MVC
 - Spring AOP(로깅)
 - Interceptor(로그인체크, 권한체크)

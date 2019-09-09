@@ -22,6 +22,8 @@ categories: dev
 - 기능(조건 검색 및 타이머)
 ---
 ###Photo
-<img src="/assets/images/3.jpg" alt="drawing" width="350" height="300"/>
+ <img src="/assets/images/3.jpg" alt="drawing" width="350" height="300"/>
+
+
 
 [repository]: https://github.com/blackjayH/wordcounting
