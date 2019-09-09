@@ -42,6 +42,6 @@ Web Team Project:
   <figcaption>Feels good to be right all the time.</figcaption>
 </figure> 
 
-<img src="{{ site.url }}/assets/images/2.jpg" alt="drawing" width="350" height="300"/>
+<img src="/assets/images/code.jpg" alt="drawing" width="350" height="300"/>
 
 [repository]: https://github.com/blackjayH/asmr-player/
