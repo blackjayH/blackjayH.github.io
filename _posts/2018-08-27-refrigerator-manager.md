@@ -4,7 +4,7 @@ date: 2019-08-26 08:26:28 -0400
 categories: dev
 ---
 
-## team proejct
+team project
 
 ---
 
