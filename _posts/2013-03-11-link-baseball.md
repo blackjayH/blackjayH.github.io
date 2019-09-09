@@ -28,6 +28,8 @@ This page link site :
 * [kor-mlbkor]
 * [kor-coachround]
 
+---
+
 #### mlb-news
 * [news-mlb.com]
 * [news-espn]
@@ -41,6 +43,8 @@ This page link site :
 * [news-sportspyder]
 * [news-usatoday]
 
+---
+
 #### mlb-prospect
 * [prospect-milb]
 * [prospect-baseballamerica]
@@ -48,6 +52,8 @@ This page link site :
 * [prospect-thebaseballcube]
 * [prospect-minorleagueball]
 * [prospect-stats]
+
+---
 
 #### mlb-column&story
 * [column&story-fansided]
@@ -60,6 +66,8 @@ This page link site :
 * [column&stroy-beyondtheboxscore]
 * [column&stroy-baseballthinkfactory]
 
+---
+
 #### mlb-stats
 * [stats-reference]
 * [stats-statcorner]
@@ -69,9 +77,13 @@ This page link site :
 * [stats-baseballsavant]
 * [stats-baseballanalysts]
 
+---
+
 #### mlb-data
 * [data-retrosheet]
 * [data-drivelinebaseball]
+
+---
 
 #### mlb-R
 * [R-fangraphs]
