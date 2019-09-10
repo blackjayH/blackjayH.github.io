@@ -89,6 +89,17 @@ This page link site:
 * [R-fangraphs]
 * [R-blog]
 
+---
+
+#### kbo
+* [kbo-기록위원회]
+* [kbo-kbreport]
+* [kbo-statiz]
+* [kbo-gameone]
+* [kbo-yachin]
+* [kbo-strikes.zone]
+
+
 [dodgers-bleacherreport]: https://bleacherreport.com/los-angeles-dodgers
 [dodgers-latimes]: https://www.latimes.com/sports/dodgers
 [dodgers-truebluela]: https://www.truebluela.com/
@@ -104,6 +115,7 @@ This page link site:
 [kor-suxism]: http://suxism.com/
 [kor-mlbkor]: http://mlb.mbcsportsplus.com/#07D0
 [kor-coachround]: http://coachround.com/
+[kor-kini's Sportugese]: https://kini.kr/
 
 [news-mlb.com]: https://www.mlb.com/
 [news-espn]: http://www.espn.com/mlb/
@@ -147,3 +159,10 @@ This page link site:
 
 [R-fangraphs]: https://tht.fangraphs.com/tht-live/importing-data-into-r/
 [R-blog]: https://cinema4dr12.tistory.com/1061?category=675738
+
+[kbo-기록위원회]: https://www.koreabaseball.com/About/Committee/RecordRaw.aspx#n103
+[kbo-kbreport]: http://www.kbreport.com/main
+[kbo-statiz]: http://www.statiz.co.kr/main.php
+[kbo-gameone]: http://www.gameone.kr/
+[kbo-yachin]: https://yachin.co.kr/
+[kbo-strikes.zone]: https://strikes.zone/
