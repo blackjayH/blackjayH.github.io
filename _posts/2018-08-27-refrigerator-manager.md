@@ -26,6 +26,7 @@ Team Project:
 - SQLite
 - JAVA(Android)
 - [kakao plus friend API]
+- [zxing api]
 
 ---
 
@@ -81,3 +82,4 @@ Team Project:
 [app repository2]: https://github.com/blackjayH/Rfmanager
 [web server php file]: https://github.com/blackjayH/kakao-plus-friend
 [kakao plus friend api]: https://github.com/plusfriend/auto_reply
+[zxing api]: https://github.com/journeyapps/zxing-android-embedded
