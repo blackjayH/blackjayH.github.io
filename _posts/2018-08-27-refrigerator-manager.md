@@ -26,7 +26,8 @@ Team Project:
 - SQLite
 - JAVA(Android)
 - [kakao plus friend API]
-- [zxing api]
+- [zxing API]
+- [STT API]
 
 ---
 
@@ -49,8 +50,9 @@ Team Project:
 - 유통기한 Notification
 
 ###### 장바구니
-- ListView + SQLite : 장바구니 화면 구성
+- ListView + SQLite : 장바구니 화면 구성 + 휴지통
 - RequestHttpURLConnection + AsyncTask : 장바구니 정보 웹 서버와 통신 JSON파싱
+
 
 ###### 기타
 - Android 로그인
@@ -82,4 +84,5 @@ Team Project:
 [app repository2]: https://github.com/blackjayH/Rfmanager
 [web server php file]: https://github.com/blackjayH/kakao-plus-friend
 [kakao plus friend api]: https://github.com/plusfriend/auto_reply
-[zxing api]: https://github.com/journeyapps/zxing-android-embedded
+[zxing API]: https://github.com/journeyapps/zxing-android-embedded
+[STT API]: https://github.com/GoogleCloudPlatform/android-docs-samples
