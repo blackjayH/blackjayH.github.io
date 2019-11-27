@@ -7,8 +7,14 @@ categories: algo
 
 > Insertion Sort(삽입 정렬)
 
-### CODE
+###개념
+```
+현재 위치보다 좌측 위치의 모든 수를 비교하여 들어갈 위치에 삽입하는 알고리즘
+시간복잡도 : O(N^2)
+공간복잡도 : O(N)
+```
 
+### CODE
 ```java
 public void insertionSort(int[] ary) {
 	int size = ary.length;
@@ -23,4 +29,5 @@ public void insertionSort(int[] ary) {
 	}
 }
 ```
+
 ### COMMENT

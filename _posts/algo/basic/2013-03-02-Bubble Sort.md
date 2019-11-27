@@ -7,8 +7,14 @@ categories: algo
 
 > Bubble Sort(버블 정렬)
 
-### CODE
+### 개념
+```
+이웃하는 두 수를 비교하여 큰 수를 뒤로 보내주는 정렬. 그 결과 1회전 후 가장 큰 값이 맨 뒤로 이동
+시간복잡도 : O(N^2)
+공간복잡도 : O(N)
+```
 
+### CODE
 ```java
 public void bubbleSort(int[] ary) {
 	int size = ary.length;
@@ -23,4 +29,5 @@ public void bubbleSort(int[] ary) {
 	}
 }
 ```
+
 ### COMMENT

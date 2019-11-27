@@ -7,8 +7,14 @@ categories: algo
 
 > Selection Sort(선택 정렬)
 
-### CODE
+###개념
+```
+현재 위치보다 우측 위치의 모든 수를 비교하여 가장 작은 숫자를 현재 위치에 선택하는 알고리즘
+시간복잡도 : O(N^2)
+공간복잡도 : O(N)
+```
 
+### CODE
 ```java
 public void selectionSort(int[] ary) {
 	int size = ary.length;
@@ -25,4 +31,5 @@ public void selectionSort(int[] ary) {
 	}
 }
 ```
+
 ### COMMENT
