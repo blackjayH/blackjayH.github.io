@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Story3"
+title                    : "Story32"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dev"
@@ -286,7 +286,6 @@ defaults:
   - scope:
       path: ""
       type: posts
-      classes: wide
     values:
       layout: single
       author_profile: true
