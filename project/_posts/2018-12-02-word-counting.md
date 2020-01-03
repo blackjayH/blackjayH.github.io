@@ -30,7 +30,7 @@ Team Project:
 ---
 
 ### Photo
- <img src="/assets/images/3.JPG" alt="drawing" width="350" height="300"/>
+ <img src="/assets/images/3.JPG" alt="drawing" width="250" height="300"/>
 
 
 
