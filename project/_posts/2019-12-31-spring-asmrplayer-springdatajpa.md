@@ -1,21 +1,16 @@
 ---
-title: "spirngdatajpa asmr player"
+title: "spring-asmrplayer-springdatajpa"
 date: 2019-12-31 08:26:28 -0400
-categories: dev
+description: >
+  Spring, Spring Data JPA, QueryDSL, MySQL used Web Application Toy Project
+---
 ---
 
-Toy Project:
-
----
-
-### Intro
-- toy project
+## Intro
 - [repository]
 - [link] Spring 수정 + Spring Data JPA
 
----
-
-### Program Stacks
+## Program Stacks
 - Spring
 - Sprig Data JPA
 - QueryDSL
@@ -23,4 +18,4 @@ Toy Project:
 - MySQL
 
 [repository]: https://github.com/blackjayH/spring-asmrplayer-springdatajpa-
-[link]: https://github.com/blackjayH/asmr-player/
+[link]: https://github.com/blackjayH/java-asmrplayer

@@ -1,21 +1,16 @@
 ---
-title: "jpa asmr player"
+title: "spring-asmrplayer"
 date: 2019-12-30 08:26:28 -0400
-categories: dev
+description: >
+  Spring, JPA(Hibernate), MySQL used Web Application Toy Project
+---
 ---
 
-Toy Project:
-
----
-
-### Intro
-- toy project
+## Intro
 - [repository]
 - [link] Spring 수정 + Spring JPA
 
----
-
-### Program Stacks
+## Program Stacks
 - Spring
 - JPA
 - JPQL
@@ -23,4 +18,4 @@ Toy Project:
 - MySQL
 
 [repository]: https://github.com/blackjayH/spring-asmrplayer/
-[link]: https://github.com/blackjayH/asmr-player/
+[link]: https://github.com/blackjayH/java-asmrplayer

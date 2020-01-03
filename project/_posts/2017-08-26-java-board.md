@@ -1,9 +1,9 @@
 ---
-layout: post
 title: "java-board"
 date: 2017-08-25 08:26:28 -0400
 description: >
   게시판 : JSP, BootStrap, Mysql used Web Application Toy Project
+---
 ---
 
 ## Intro
@@ -17,4 +17,4 @@ description: >
 - JSP
 - MySQL
 
-[repository]: https://github.com/blackjayH/board-jsp-
+[repository]: https://github.com/blackjayH/java-board

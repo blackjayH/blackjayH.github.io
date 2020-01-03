@@ -28,4 +28,4 @@ description: >
 ### Photo
 <img src="/assets/images/2.JPG" alt="drawing" width="500" height="300"/>
 
-[repository]: https://github.com/blackjayH/asmr-player/
+[repository]: https://github.com/blackjayH/java-asmrplayer
