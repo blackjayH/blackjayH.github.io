@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "22df3Story"
+title                    : "Story3"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dev"
@@ -286,9 +286,9 @@ defaults:
   - scope:
       path: ""
       type: posts
+      classes: wide
     values:
       layout: single
-      classes: wide
       author_profile: true
       read_time: false
       comments: # true 댓글 활성화
