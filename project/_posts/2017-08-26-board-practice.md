@@ -4,7 +4,6 @@ title: "jsp board"
 date: 2017-08-25 08:26:28 -0400
 description: >
   ㄴㄴㄴㄴㄴㄴㄴㄴ
-excerpt_separator: <!--more-->
 ---
 
 Toy Project:
