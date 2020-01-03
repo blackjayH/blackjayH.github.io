@@ -5,7 +5,5 @@ slug: project
 menu: true
 order: 2
 description: >
-  Hyde is a brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content.
-  It’s based on Poole, the Jekyll butler.
-  Open `_featured_tags/hyde.md` to edit this text.
+  Toy/Team 프로젝트에 대한 설명입니다. 각 프로젝트 페이지에서 github페이지를 확인할 수 있습니다.
 ---

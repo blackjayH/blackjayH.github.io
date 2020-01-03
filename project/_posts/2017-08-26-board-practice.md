@@ -3,9 +3,7 @@ layout: post
 title: "jsp board"
 date: 2017-08-25 08:26:28 -0400
 description: >
-  Hydejack is a pretentious two-column [Jekyll](http://jekyllrb.com) theme,
-  stolen by [@qwtel](https://twitter.com/qwtel) from [Hyde](http://hyde.getpoole.com).
-  You could say it was.. [hydejacked](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
+  ㄴㄴㄴㄴㄴㄴㄴㄴ
 excerpt_separator: <!--more-->
 ---
 
