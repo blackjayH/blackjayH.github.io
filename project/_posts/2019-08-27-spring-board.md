@@ -2,8 +2,7 @@
 title: "spring-board"
 date: 2019-08-20 08:26:28 -0400
 description: >
-  게시판 : Spring, Mysql, MyBatis, JPA(Hibernate), BootStrap used Web Application
- Toy Project
+  게시판 : Spring, Mysql, MyBatis, JPA(Hibernate), BootStrap used Web Application Toy Project
 ---
 ---
 
