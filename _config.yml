@@ -49,12 +49,6 @@ author:
 menu:
   - title:             Project
     url:               /project/
-  - title:             Hydejack
-    url:               /hydejack/
-  - title:             Documentation
-    url:               /docs/
-  - title:             Reference
-    url:               /reference/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
