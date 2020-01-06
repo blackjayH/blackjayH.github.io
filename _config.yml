@@ -49,8 +49,10 @@ author:
 menu:
   - title:             Project
     url:               /project/
-  - title:             Computer Science
-    url:               /computerscience/
+  #- title:             Computer Science
+  #  url:               /computerscience/
+  #- title:             Computer Science
+  #  url:               /computerscience/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -67,7 +69,7 @@ copyright:             © 2020. All rights reserved.
 permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
-paginate:              10
+paginate:              7
 paginate_path:         /page-:num/
 
 
