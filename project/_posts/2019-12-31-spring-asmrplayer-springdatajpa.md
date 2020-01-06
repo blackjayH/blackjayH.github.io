@@ -8,7 +8,7 @@ description: >
 
 ## Intro
 - [repository]
-- [link] Spring 수정 + Spring Data JPA
+- [link] Spring으로 수정 + Spring Data JPA
 
 ## Program Stacks
 - Spring
@@ -16,6 +16,11 @@ description: >
 - QueryDSL
 - Hibernate
 - MySQL
+
+---
+
+### Photo
+<img src="/assets/images/2.JPG" alt="drawing" width="500" height="300"/>
 
 [repository]: https://github.com/blackjayH/spring-asmrplayer-springdatajpa-
 [link]: https://github.com/blackjayH/java-asmrplayer

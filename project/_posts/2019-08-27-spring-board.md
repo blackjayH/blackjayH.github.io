@@ -11,10 +11,10 @@ description: >
 
 ## Program Stacks
 - Spring framework
+- Maven
 - BootStrap
 - JSP + JSTL
 - MySQL
-- Maven
 - Ajax
 - MyBatis
 - Hibernate
@@ -23,9 +23,7 @@ description: >
 - User(CRUD) + Board(CRUD) + Comment(CRUD) + 페이징 처리
 - JPA : User(CRUD)
 - MyBatis : Board(CRUD) + Comment(CRUD)
-- RESTful API
-- Spring MVC
-- Spring AOP(로깅)
+- Spring MVC(RESTful API)
 - Interceptor(로그인체크, 권한체크)
 
 [repository]: https://github.com/blackjayH/spring-board
