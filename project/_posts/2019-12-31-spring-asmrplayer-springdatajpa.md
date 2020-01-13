@@ -8,12 +8,12 @@ description: >
 
 ## Intro
 - [repository]
-- [link] Spring으로 수정 + Spring Data JPA
+- [link] 과거 프로젝트 Spring으로 수정 + Spring Data JPA
 
 ## Program Stacks
 - Spring
 - Sprig Data JPA
-- QueryDSL
+- QueryDSL(3.XX)
 - Hibernate
 - MySQL
 

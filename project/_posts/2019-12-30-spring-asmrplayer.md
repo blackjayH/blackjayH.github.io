@@ -8,7 +8,7 @@ description: >
 
 ## Intro
 - [repository]
-- [link] Spring으로 수정 + Spring JPA
+- [link] 과거 프로젝트 Spring으로 수정 + Spring JPA
 
 ## Program Stacks
 - Spring
