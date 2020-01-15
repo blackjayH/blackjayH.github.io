@@ -4,14 +4,11 @@ date: 2019-08-20 08:26:28 -0400
 description: >
   게시판 : Spring, Mysql, MyBatis, BootStrap used Web Application Toy Project
 ---
----
 
-## Intro
----
+### Intro
 - [repository]
 
-## Program Stacks
----
+### Program Stacks
 - Spring framework
 - Maven
 - BootStrap
@@ -20,8 +17,7 @@ description: >
 - Ajax
 - MyBatis
 
-## Implementation
----
+### Implementation
 - User(CRUD) + Board(CRUD) + Comment(CRUD)
 - Spring MVC(RESTful API)
 - Interceptor(로그인체크, 권한체크)
