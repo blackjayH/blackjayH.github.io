@@ -6,13 +6,13 @@ description: >
 ---
 ---
 
-Intro
-=========
+### Intro
+---
 
 * [repository]
 
-Program Stacks
-==============
+### Program Stacks
+---
 
 * Spring framework
 * Maven
@@ -22,9 +22,8 @@ Program Stacks
 * Ajax
 * MyBatis
 
-zz
 ### Implementation
-=========
+---
 
 - User(CRUD) + Board(CRUD) + Comment(CRUD)
 - Spring MVC(RESTful API)
