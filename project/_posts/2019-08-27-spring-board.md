@@ -8,18 +8,21 @@ description: >
 
 Intro
 =========
-- [repository]
+
+* [repository]
 
 Program Stacks
-=========
-- Spring framework
-- Maven
-- BootStrap
-- JSP + JSTL
-- MySQL
-- Ajax
-- MyBatis
+==============
 
+* Spring framework
+* Maven
+* BootStrap
+* JSP + JSTL
+* MySQL
+* Ajax
+* MyBatis
+
+zz
 ### Implementation
 =========
 
