@@ -6,13 +6,12 @@ description: >
 ---
 ---
 
-### Intro
+Intro
 =========
 - [repository]
 
-### Program Stacks
+Program Stacks
 =========
-
 - Spring framework
 - Maven
 - BootStrap
