@@ -12,7 +12,7 @@ gh-md-toc
 Intro
 =====
 
-* [repository]
+ [repository]
 
 ### Program Stacks
 ---
