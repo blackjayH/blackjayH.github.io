@@ -7,11 +7,12 @@ description: >
 ---
 
 ### Intro
-___
+=========
 - [repository]
 
 ### Program Stacks
-***
+=========
+
 - Spring framework
 - Maven
 - BootStrap
@@ -21,6 +22,8 @@ ___
 - MyBatis
 
 ### Implementation
+=========
+
 - User(CRUD) + Board(CRUD) + Comment(CRUD)
 - Spring MVC(RESTful API)
 - Interceptor(로그인체크, 권한체크)
