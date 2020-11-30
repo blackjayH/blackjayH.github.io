@@ -1,20 +1,26 @@
 ---
-title: "java-board"
+title: "Web Toy Project: Board"
+layout: post
 date: 2017-08-25 08:26:28 -0400
-description: >
-  게시판 : JSP, BootStrap, Mysql used Web Application Toy Project
+noindex: true
 ---
----
+
+> JSP used Web Application Toy Project
 
 ## Intro
-- [repository]
-- JSP + MySQL를 이용한 간단한 게시판(2017.8.1 ~ 17)
-- 유튜브 JSP 게시판 만들기 강좌 https://www.youtube.com/watch?v=wEIBDHfoMBg
-- 유저CRUD + 게시글CRUD + 댓글CRUD
+- 간단한 게시판
+- [repository](https://github.com/blackjayH/java-board)
+- 2017.8 소요시간 1개월
+- 처음 만드는 웹 Toy Project
 
 ## Program Stacks
-- BootStrap
+- Tomcat
 - JSP
+- BootStrap
 - MySQL
 
-[repository]: https://github.com/blackjayH/java-board
+## Implementation
+- 유저CRUD + 게시판CRUD
+
+## Reference
+- [JSP 게시판 만들기 강좌](https://www.youtube.com/watch?v=wEIBDHfoMBg)
