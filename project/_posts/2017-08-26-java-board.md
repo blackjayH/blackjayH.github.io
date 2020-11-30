@@ -8,9 +8,8 @@ noindex: true
 > JSP used Web Application Toy Project
 
 ## Intro
-- 간단한 게시판
 - [repository](https://github.com/blackjayH/java-board)
-- 2017.8 소요시간 1개월
+- 간단한 게시판; 2017.8;
 - 처음 만드는 웹 Toy Project
 
 ## Program Stacks

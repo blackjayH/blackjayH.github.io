@@ -1,28 +1,30 @@
 ---
-title: "java-wordcounting"
+title: "Web Team Project: wordcounting"
+layout: post
 date: 2018-12-11 08:26:28 -0400
-description: >
-  JAVA, JSP, MySQL, Ajax used Web Application Team Project
+noindex: true
 ---
----
+
+> JSP used Web Application Team Project
 
 ## Intro
-- [repository]
-- 4개 PC를 이용한 분산처리시스템 + wordcounting 웹
-- 4 people(2018.11.1 ~ 11.30)
+- [repository](https://github.com/blackjayH/java-wordcounting)
+- wordcounting 분산처리시스템; 2018.11
+- 4 People Team Project
 
 ## Program Stacks
-- BootStrap
+- Tomcat
 - JSP
-- MySQL
+- BootStrap
 - JS
+- MySQL
+- JSoup Libraray
 
 ## My part
-- JSoup Library : 네이버 뉴스 크롤링 + 대용량 데이터 전처리
-- Stored Procedure를 이용한 Model
-- 기능(조건 검색 및 타이머)
+- Model 1구조의 wordcounting
+- JSoup Library : 네이버 뉴스 단어 크롤링
+- Stored Procedure : 대용량 데이터 전처리
+- 기타 단순 기능(조건 검색 및 타이머)
 
 ## Photo
 <img src="/assets/images/3.JPG" alt="drawing" width="300" height="300"/>
-
-[repository]: https://github.com/blackjayH/java-wordcounting
