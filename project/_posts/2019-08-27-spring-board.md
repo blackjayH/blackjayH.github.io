@@ -1,27 +1,31 @@
 ---
 title: "spring-board"
+layout: post
 date: 2019-08-20 08:26:28 -0400
-description: >
-  게시판 : Spring, Mysql, MyBatis, BootStrap used Web Application Toy Project
+noindex: true
 ---
----
+
+> Spring used Web Application Toy Project
 
 ## Intro
-- [repository]
+- [repository](https://github.com/blackjayH/spring-board)
 
 ## Program Stacks
-- Spring framework
-- Maven
-- BootStrap
+- Eclipse + Maven + Spring
 - JSP + JSTL
+- BootStrap
+- JQuery; Ajax
 - MySQL
-- Ajax
 - MyBatis
 
 ## Implementation
+- User(CRUD) + Board(CRUD)
+- Spring MVC
+- RESTful API
 
-- User(CRUD) + Board(CRUD) + Comment(CRUD)
-- Spring MVC(RESTful API)
-- Interceptor(로그인체크, 권한체크)
-
-[repository]: https://github.com/blackjayH/spring-board
+## Comment
+- Spring Framework 사용해보기
+- Spring MVC 구현
+- RestController + (GET/POST/PUT/DELETE)
+- JDBC가 아닌 SQL Mapper(MyBatis) 활용
+- aop(transaction, log, 권한체크), interceptor

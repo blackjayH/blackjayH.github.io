@@ -5,7 +5,7 @@ date: 2017-12-10 08:26:28 -0400
 noindex: true
 ---
 
-> JAVA, JSP used Web Application Team Project
+> JSP used Web Application Team Project
 
 ## Intro
 - [repository](https://github.com/blackjayH/java-asmrplayer)

@@ -1,17 +1,19 @@
 ---
-title: "android-rfmanager.ver2"
+title: "Android Team Project: Refrigerator Manager"
+layout: post
 date: 2018-08-26 08:26:28 -0400
-description: >
-  JAVA, SQLite, Zxing, STT, StickyGridHeaders used Android App.ver2 Team Project
----
+noindex: true
 ---
 
+> JAVA used Android App Team Project
+
 ## Intro
+- Barcode + STT 인식 Refrigerator Manager 앱
+- SQLite, Zxing, STT, StickyGridHeaders
 - ver1.[app repository]
 - ver2.[app repository2]
 - [web server php file]
-- Barcode + STT 인식 Refrigerator Manager 앱
-- 4 people(2018.3.1 ~ 6.8)
+- 4 people(2018.3 ~ 6)
 
 ## Program Stacks
 - Raspberry Pi
